@@ -1,0 +1,17 @@
+# Godot 4 cache
+.godot/
+
+# Builds/exports
+export/
+build/
+bin/
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
+
+# Godot 4+ specific ignores
+.godot/
+/android/
