@@ -11,8 +11,8 @@ config_version=5
 [application]
 
 config/name="2D-Platform-Game"
+run/main_scene="uid://di0ajrds3yqlr"
 config/features=PackedStringArray("4.6", "Mobile")
-config/icon="res://icon.svg"
 
 [physics]
 
